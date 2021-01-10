@@ -31,7 +31,7 @@ git clone https://github.com/natelol/luci-app-oled package/natelol/luci-app-oled
 #svn co https://github.com/fw876/helloworld/trunk/luci-app-ssr-plus package/lean/luci-app-ssr-plus
 #svn co https://github.com/fw876/helloworld/trunk/tcping package/lean/tcping
 #svn co https://github.com/fw876/helloworld/trunk/naiveproxy package/lean/naiveproxy
-svn co https://github.com/Mattraks/helloworld/branches/develop/luci-app-ssr-plus package/lean/luci-app-ssr-plus
+svn co https://github.com/Mattraks/helloworld/branches/Preview/luci-app-ssr-plus package/lean/luci-app-ssr-plus
 svn co https://github.com/Mattraks/helloworld/branches/Preview/naiveproxy package/lean/naiveproxy
 svn co https://github.com/Mattraks/helloworld/branches/Preview/tcping package/lean/tcping
 
